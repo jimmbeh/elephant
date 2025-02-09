@@ -1,9 +1,12 @@
 
 07-Feb-2025
-  Workshop with Dr Wong on 
+  Workshop with Dr Wong on marking scheme
 
 23-Jan-2025
   Received elephant sound data
+
+23-Dec-2024
+  Received elephant videos data
 
 17-Dec-2024
   Meeting with Mubashir on API
@@ -15,7 +18,13 @@
   Update on client brief
 
 14-Oct-2024
-  Workshop with Dr Wong requirements discussion
+  Workshop with Dr Wong on requirements discussion
+
+11-Oct-2024
+  One-day workshop by Keysight
 
 02-Oct-2024
   Facilitator assigned
+
+23-Sep-2024
+  Briefing by Dr Lim
