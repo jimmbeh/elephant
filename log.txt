@@ -1,4 +1,5 @@
-
+10-Feb-2025
+  Lab testing 2 camera
 07-Feb-2025
   Workshop with Dr Wong on marking scheme
 
@@ -7,22 +8,43 @@
 
 23-Dec-2024
   Received elephant videos data
-
 17-Dec-2024
   Meeting with Mubashir on API
+10-Dec-2024
+  Meeting with Dr Grace 5
 
+29-Nov-2024
+  Workshop by guest speaker on project management
+22-Nov-2024
+  Lab testing 1 
+20-Nov-2024
+  Lab booking confirmed
 15-Nov-2024
-  Submitted NDA
+  Submitted NDA 
+  Meeting with Dr Grace 4
+  Purchase 1 items collected
+14-Nov-2024
+  Done and submitted HIRARC 
+12-Nov-2024
+  Purchase 1 order placed
+07-Nov-2024
+  Purchase 1 submitted PR
+05-Nov-2024
+  Purchase 1 quotation received
 
+29-Oct-2024
+  Meeting with Dr Grace 3
 22-Oct-2024
   Update on client brief
-
+16-Oct-2024
+  Meeting with Dr Grace 2
+15-Oct-2024
+  Submitted component loan request
 14-Oct-2024
   Workshop with Dr Wong on requirements discussion
-
 11-Oct-2024
-  One-day workshop by Keysight
-
+  Workshop by Keysight on electrical callibration
+  Meeting with Dr Grace 1
 02-Oct-2024
   Facilitator assigned
 
